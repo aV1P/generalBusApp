@@ -1,0 +1,21 @@
+{
+  "name": "hermeswl-test-automation",
+  "version": "1.0.0",
+  "description": "Automated tests for HermesWL system management",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:debug": "playwright test --debug"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "playwright"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}

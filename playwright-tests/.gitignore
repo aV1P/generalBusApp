@@ -1,0 +1,21 @@
+# Playwright
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
